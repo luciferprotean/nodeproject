@@ -1,2 +1,2 @@
-var myName = 'Sharad';
-console.log(myName);
+var myNameNew = 'Sharad';
+console.log(myNameNew);
